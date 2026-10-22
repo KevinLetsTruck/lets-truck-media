@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T14:08:00-07:00",
+ "updated_at": "2026-10-22T07:40:00-07:00",
  "spec": {
   "title": "Henry Albert's Freightliner spec: \"Celeste,\" his 2022 Cascadia (Project 70+/10)",
   "source_url": "https://runonless.com/participants-2025/albert/",
@@ -226,6 +226,31 @@
     "Passenger cab extender trim removed"
    ],
    "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16517639",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16517639/2021-Freightliner-NEW-CASCADIA-PX12664",
+   "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
+   "year": 2021,
+   "model": "Cascadia 126 (PX12664)",
+   "price": 61951,
+   "miles": 606096,
+   "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
+   "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+   "rears": "2.79",
+   "location": "Dallas, TX (Ryder Vehicle Sales)",
+   "match": "close",
+   "misses": [
+    "400 hp / 1,625 lb-ft vs 455 / 1,850",
+    "2.79 rears vs 2.61",
+    "6x4 tandem, not 6x2 OPTIMAAX",
+    "Fairings listed as None (Henry runs full aero)",
+    "Tires not listed",
+    "Ex-fleet (Ryder)"
+   ],
+   "first_seen": "2026-10-22",
    "status": "active",
    "prev_price": null
   }
