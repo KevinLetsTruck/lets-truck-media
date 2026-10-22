@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:10:00-07:00",
+  "updated_at": "2026-10-22T07:40:00-07:00",
   "spec": {
     "title": "Every glider kit truck listed for sale in the US",
     "source_url": "https://www.truckpaper.com/listings/trucks/for-sale/list?keywords=glider",
@@ -30,7 +30,7 @@
       },
       {
         "label": "Sources",
-        "value": "Soarr (7E Sales, Don Van Orden), Truck Market, Forge Truck Centers, Ohio Truck Sales, I-294 Used Truck Sales, 5 Star Truck Sales, Truck Center Companies, TruckPaper listing pages, BisManOnline. Every link loaded and was not marked sold/pending/reserved on Oct 21, 2026. No seller was contacted."
+        "value": "Soarr (7E Sales, Don Van Orden), Truck Market, Forge Truck Centers, Ohio Truck Sales, I-294 Used Truck Sales, 5 Star Truck Sales, Truck Center Companies, TruckPaper listing pages, BisManOnline. Every link loaded and was not marked sold/pending/reserved on Oct 22, 2026. No seller was contacted."
       }
     ]
   },
@@ -3246,6 +3246,122 @@
       "engine_miles_since_rebuild": null,
       "engine_hours": null,
       "vin": "5KKXAFCG9JPJR6941",
+      "stock": null,
+      "source": "BisManOnline"
+    },
+    {
+      "id": "bisman-ats-3alxa7000ldmk6274",
+      "url": "https://www.bismanonline.com/hartford_sd/here_is_a_2020_freightliner_columbia_glider_powere",
+      "title": "2020 Freightliner Columbia",
+      "year": 2020,
+      "model": "Columbia",
+      "price": 44500,
+      "miles": 340000,
+      "engine": "Cummins ISX, 435 hp",
+      "transmission": "Eaton Fuller 10 spd",
+      "rears": "3.25",
+      "location": "Hartford, SD (The American Truck Store)",
+      "match": "exact",
+      "misses": [
+        "Day cab (no sleeper per listing)",
+        "Miles from description (340,000); the ad's mileage field is garbled",
+        "ISX build year not stated",
+        "No overhaul miles stated"
+      ],
+      "first_seen": "2026-10-22",
+      "status": "active",
+      "prev_price": null,
+      "make": "Freightliner",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": "3ALXA7000LDMK6274",
+      "stock": "20ColumbiaGlider",
+      "source": "BisManOnline"
+    },
+    {
+      "id": "bisman-lsi-4127214",
+      "url": "https://www.bismanonline.com/bismarck_nd/2012_kenworth_glider_t800",
+      "title": "2016 Kenworth T800",
+      "year": 2016,
+      "model": "T800",
+      "price": 90000,
+      "miles": 287808,
+      "engine": "Detroit DDEC IV, 480 hp",
+      "transmission": "18 spd",
+      "rears": null,
+      "location": "Bismarck, ND (LSI Truck Sales)",
+      "match": "exact",
+      "misses": [
+        "Rear ratio not listed",
+        "VIN not listed",
+        "Older ad (AD# 4127214); URL slug says 2012, ad says 2016",
+        "No overhaul miles stated"
+      ],
+      "first_seen": "2026-10-22",
+      "status": "active",
+      "prev_price": null,
+      "make": "Kenworth",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": null,
+      "source": "BisManOnline"
+    },
+    {
+      "id": "bisman-5351205",
+      "url": "https://www.bismanonline.com/stanley_nd/2015_kenworth_w900_l_glider",
+      "title": "2015 Kenworth W900L",
+      "year": 2015,
+      "model": "W900L",
+      "price": 160000,
+      "miles": 439900,
+      "engine": "CAT C15 6NZ, 550 hp",
+      "transmission": "Eaton 20918B 18 spd",
+      "rears": "3.90",
+      "location": "Stanley, ND (private seller)",
+      "match": "exact",
+      "misses": [
+        "Private seller",
+        "Listing says factory glider (GGGG VIN) but VIN not shown",
+        "13K lift axle, wet kit",
+        "No overhaul miles stated"
+      ],
+      "first_seen": "2026-10-22",
+      "status": "active",
+      "prev_price": null,
+      "make": "Kenworth",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": null,
+      "source": "BisManOnline"
+    },
+    {
+      "id": "bisman-landis-5175274",
+      "url": "https://www.bismanonline.com/elm_creek_ne/1998_kenworth_t800_glider_winch_truck",
+      "title": "1998 Kenworth T800 Glider Winch Truck",
+      "year": 1998,
+      "model": "T800 Winch Truck",
+      "price": 47500,
+      "miles": 59658,
+      "engine": "Cummins NTC400, 400 hp",
+      "transmission": "8+4 spd with aux",
+      "rears": null,
+      "location": "Elm Creek, NE (Landis Truck)",
+      "match": "exact",
+      "misses": [
+        "1998 build; listed VIN R768732GL is not a 17-digit VIN",
+        "Day cab winch truck",
+        "Rear ratio not listed",
+        "Mileage as listed (59,658); may not be total chassis miles"
+      ],
+      "first_seen": "2026-10-22",
+      "status": "active",
+      "prev_price": null,
+      "make": "Kenworth",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
       "stock": null,
       "source": "BisManOnline"
     }
