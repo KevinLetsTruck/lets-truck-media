@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T07:45:00-07:00",
+ "updated_at": "2026-10-29T07:35:00-07:00",
  "spec": {
   "title": "Joel Morrow's Volvo spec for 80,000 lb or less",
   "source_url": "https://www.linkedin.com/posts/joel-morrow-a15a6aa0_truck-drivers-and-owner-operators-love-to-activity-7300916238589800448-gCIq",
@@ -195,7 +195,7 @@
   {
    "id": "soarr-syverson-albertlea-2027-vnl860-2.15",
    "url": "https://www.soarr.com/for-sale/trucks/105/sleeper-trucks-for-sale?make=volvo&year=2027",
-   "title": "2027 Volvo VNL 860 ×13 (new, Dave Syverson Truck Centers)",
+   "title": "2027 Volvo VNL 860 ×14 (new, Dave Syverson Truck Centers)",
    "year": 2027,
    "model": "VNL 860 (2027)",
    "price": null,
@@ -212,6 +212,121 @@
     "No price listed"
    ],
    "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274150",
+   "url": "https://www.arrowtruck.com/inventory/274150",
+   "title": "2024 Volvo VNL 760",
+   "year": 2024,
+   "model": "VNL 760 (legacy)",
+   "price": 94999,
+   "miles": 438526,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15–2.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274147",
+   "url": "https://www.arrowtruck.com/inventory/274147",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 104999,
+   "miles": 278163,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "Cincinnati, OH",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15–2.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274148",
+   "url": "https://www.arrowtruck.com/inventory/274148",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 101999,
+   "miles": 315505,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "Cincinnati, OH",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15–2.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274149",
+   "url": "https://www.arrowtruck.com/inventory/274149",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 99999,
+   "miles": 366384,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15–2.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "truckpaper-4V4BC9EJ4SN689511",
+   "url": "https://www.truckpaper.com/listings/for-sale/volvo/vnl64t860/sleeper-trucks/16045",
+   "title": "2025 Volvo VNL 860",
+   "year": 2025,
+   "model": "VNL 860 (new-generation)",
+   "price": 180000,
+   "miles": 102698,
+   "engine": "Volvo D13 TC, 500 hp",
+   "transmission": "13-speed automated",
+   "rears": "2.15",
+   "location": "Sparta, WI",
+   "match": "close",
+   "misses": [
+    "6x4 vs 6x2 not listed (40k rears)",
+    "Torque rating not listed (spec: 500/1,950)",
+    "Private seller on TruckPaper; no direct listing link found, link is the TruckPaper VNL64T860 category page",
+    "Overdrive not stated (listed \"13 speed automated\")"
+   ],
+   "first_seen": "2026-10-29",
    "status": "active",
    "prev_price": null
   }
