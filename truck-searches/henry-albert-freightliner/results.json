@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T07:45:00-07:00",
+ "updated_at": "2026-10-29T07:35:00-07:00",
  "spec": {
   "title": "Henry Albert's Freightliner spec: \"Celeste,\" his 2022 Cascadia (Project 70+/10)",
   "source_url": "https://runonless.com/participants-2025/albert/",
@@ -138,7 +138,7 @@
    "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
    "year": 2021,
    "model": "Cascadia 126 (PX12664)",
-   "price": 72736,
+   "price": 68736,
    "miles": 564044,
    "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
    "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
@@ -154,7 +154,7 @@
    ],
    "first_seen": "2026-10-20",
    "status": "active",
-   "prev_price": null
+   "prev_price": 72736
   },
   {
    "id": "soarr-16460408",
@@ -235,7 +235,7 @@
    "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
    "year": 2021,
    "model": "Cascadia 126 (PX12664)",
-   "price": 65951,
+   "price": 61951,
    "miles": 606096,
    "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
    "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
@@ -252,7 +252,7 @@
    ],
    "first_seen": "2026-10-22",
    "status": "active",
-   "prev_price": null
+   "prev_price": 65951
   }
  ]
 }
