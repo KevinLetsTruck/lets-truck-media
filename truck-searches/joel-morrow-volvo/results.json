@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T07:35:00-08:00",
+ "updated_at": "2026-11-05T08:10:00-08:00",
  "spec": {
   "title": "Joel Morrow's Volvo spec for 80,000 lb or less",
   "source_url": "https://www.linkedin.com/posts/joel-morrow-a15a6aa0_truck-drivers-and-owner-operators-love-to-activity-7300916238589800448-gCIq",
@@ -327,6 +327,30 @@
     "Overdrive not stated (listed \"13 speed automated\")"
    ],
    "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16520978",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16520978/2025-Volvo-DuraStar-VNL64400",
+   "title": "2025 Volvo VNL (VNL64400)",
+   "year": 2025,
+   "model": "VNL 64400",
+   "price": 152000,
+   "miles": null,
+   "engine": "Volvo D13, 455 hp",
+   "transmission": "Volvo I-Shift 13-speed",
+   "rears": "2.15",
+   "location": "Indianapolis, IN (McMahon Truck Centers)",
+   "match": "close",
+   "misses": [
+    "455 hp; torque rating not listed",
+    "6x4 tandem",
+    "Odometer not listed (listed as used)",
+    "Overdrive not stated; sleeper size not listed",
+    "Listing title says \"DuraStar VNL64400\""
+   ],
+   "first_seen": "2026-11-05",
    "status": "active",
    "prev_price": null
   }
