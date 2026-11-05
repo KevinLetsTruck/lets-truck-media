@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T07:35:00-08:00",
+  "updated_at": "2026-11-05T08:10:00-08:00",
   "spec": {
     "title": "Every glider kit truck listed for sale in the US",
     "source_url": "https://www.truckpaper.com/listings/trucks/for-sale/list?keywords=glider",
@@ -30,7 +30,7 @@
       },
       {
         "label": "Sources",
-        "value": "Soarr (7E Sales, Don Van Orden), Truck Market, Forge Truck Centers, Ohio Truck Sales, I-294 Used Truck Sales, 5 Star Truck Sales, Truck Center Companies, TruckPaper listing pages, BisManOnline. Every link loaded and was not marked sold/pending/reserved on their last check (latest refresh Nov 2, 2026; TruckPaper cards could not be re-verified on Nov 2). No seller was contacted."
+        "value": "Soarr (7E Sales, Don Van Orden), Truck Market, Forge Truck Centers, Ohio Truck Sales, I-294 Used Truck Sales, 5 Star Truck Sales, Truck Center Companies, TruckPaper listing pages, BisManOnline. Every link loaded and was not marked sold/pending/reserved on their last check (latest refresh Nov 5, 2026; TruckPaper cards could not be re-verified on Nov 5). No seller was contacted."
       }
     ]
   },
@@ -991,7 +991,7 @@
       "title": "2015 Peterbilt 389",
       "year": 2015,
       "model": "389",
-      "price": 167750,
+      "price": 177750,
       "miles": 484000,
       "engine": "CAT, 6NZ C15, 525 HP",
       "transmission": "Manual, 18 Spd",
@@ -1450,7 +1450,7 @@
         "Odometer not listed"
       ],
       "first_seen": "2026-10-21",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Peterbilt",
       "engine_miles_since_rebuild": 108000,
@@ -2661,7 +2661,7 @@
         "Rear ratio not listed"
       ],
       "first_seen": "2026-10-21",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Kenworth",
       "engine_miles_since_rebuild": null,
@@ -2893,7 +2893,7 @@
         "No overhaul miles stated"
       ],
       "first_seen": "2026-10-21",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Freightliner",
       "engine_miles_since_rebuild": null,
@@ -3410,7 +3410,7 @@
         "Check-engine light on with 9 codes per listing"
       ],
       "first_seen": "2026-11-02",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Peterbilt",
       "engine_miles_since_rebuild": null,
@@ -3654,7 +3654,7 @@
         "No overhaul miles stated"
       ],
       "first_seen": "2026-11-02",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Peterbilt",
       "engine_miles_since_rebuild": null,
@@ -3864,7 +3864,7 @@
         "Engine hours approx."
       ],
       "first_seen": "2026-11-02",
-      "status": "active",
+      "status": "sold",
       "prev_price": null,
       "make": "Freightliner",
       "engine_miles_since_rebuild": null,
@@ -3897,6 +3897,114 @@
       "engine_hours": 5000,
       "vin": null,
       "stock": "MK6272",
+      "source": "5 Star Truck Sales"
+    },
+    {
+      "id": "forge-1npxgggg50d453215",
+      "url": "https://www.forgetruckcenters.com/inventory/2017-peterbilt-389-1NPXGGGG50D453215",
+      "title": "2017 Peterbilt 389 Factory Glider",
+      "year": 2017,
+      "model": "389",
+      "price": 139750,
+      "miles": null,
+      "engine": "CAT 3406E, 550 hp",
+      "transmission": "Manual, 18 spd",
+      "rears": "40k rears (ratio not listed)",
+      "location": "New Lenox, IL (Forge Truck Centers)",
+      "match": "exact",
+      "misses": [
+        "Odometer not listed",
+        "Rear ratio not listed"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Peterbilt",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": "1NPXGGGG50D453215",
+      "stock": null,
+      "source": "Forge Truck Centers"
+    },
+    {
+      "id": "truckmarket-267874",
+      "url": "https://truckmarket.com/trucks/2014-peterbilt-389-daycab-glider-kit-267874/",
+      "title": "2014 Peterbilt 389 Daycab",
+      "year": 2014,
+      "model": "389 Daycab",
+      "price": 137750,
+      "miles": 308000,
+      "engine": "Detroit, 12.7, 500 HP",
+      "transmission": "Manual, 10 Spd",
+      "rears": "Full lockers, 40k rears (ratio not listed)",
+      "location": "Olive Branch, MS (Truck Market)",
+      "match": "exact",
+      "misses": [
+        "Rear ratio not listed",
+        "No overhaul miles stated (308k original miles)"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Peterbilt",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "267874",
+      "source": "Truck Market"
+    },
+    {
+      "id": "truckmarket-390230",
+      "url": "https://truckmarket.com/trucks/2016-peterbilt-389-pride-class-glider-kit-390230/",
+      "title": "2016 Peterbilt 389 Pride & Class",
+      "year": 2016,
+      "model": "389",
+      "price": 127750,
+      "miles": null,
+      "engine": "Detroit, 12.7, 500 HP",
+      "transmission": "Manual, 13 Spd",
+      "rears": "40k rears (ratio not listed)",
+      "location": "Olive Branch, MS (Truck Market)",
+      "match": "exact",
+      "misses": [
+        "Odometer not listed",
+        "Rear ratio not listed",
+        "Overhaul at WW Williams, 160k since (paperwork)"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Peterbilt",
+      "engine_miles_since_rebuild": 160000,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "390230",
+      "source": "Truck Market"
+    },
+    {
+      "id": "5star-lg1103",
+      "url": "https://5startrucksales.us/trucks/lg1103/",
+      "title": "2020 Freightliner Coronado 132 Glider",
+      "year": 2020,
+      "model": "Coronado 132",
+      "price": 82900,
+      "miles": 808067,
+      "engine": "Detroit Series 60 12.7, 500 hp",
+      "transmission": "Eaton Fuller 13 spd",
+      "rears": "3.42",
+      "location": "Byron Center, MI (5 Star Truck Sales)",
+      "match": "exact",
+      "misses": [
+        "Overhaul 04/04/2025, ~226,200 mi since (documented)"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Freightliner",
+      "engine_miles_since_rebuild": 226200,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "LG1103",
       "source": "5 Star Truck Sales"
     }
   ]
