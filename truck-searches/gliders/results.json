@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T08:10:00-08:00",
+  "updated_at": "2026-11-05T10:45:00-08:00",
   "spec": {
     "title": "Every glider kit truck listed for sale in the US",
     "source_url": "https://www.truckpaper.com/listings/trucks/for-sale/list?keywords=glider",
@@ -3076,11 +3076,12 @@
       "match": "exact",
       "misses": [
         "Odometer not listed",
-        "Price from TruckPaper search results, not the detail page"
+        "Price from TruckPaper search results, not the detail page",
+        "2026-11-05: TruckPaper listing URL redirects to generic search; stock 1497 not on current Citra inventory page (22 trucks). Marked sold."
       ],
       "first_seen": "2026-10-21",
-      "status": "active",
-      "prev_price": null,
+      "status": "sold",
+      "prev_price": 69900,
       "make": "Freightliner",
       "engine_miles_since_rebuild": null,
       "engine_hours": null,
@@ -3103,11 +3104,12 @@
       "match": "exact",
       "misses": [
         "Odometer not listed",
-        "Price from TruckPaper search results, not the detail page"
+        "Price from TruckPaper search results, not the detail page",
+        "2026-11-05: TruckPaper listing URL redirects to generic search; stock 1498 not on current Citra inventory page (22 trucks). Marked sold."
       ],
       "first_seen": "2026-10-21",
-      "status": "active",
-      "prev_price": null,
+      "status": "sold",
+      "prev_price": 68900,
       "make": "Freightliner",
       "engine_miles_since_rebuild": null,
       "engine_hours": null,
@@ -3117,21 +3119,21 @@
     },
     {
       "id": "truckpaper-260266859",
-      "url": "https://www.truckpaper.com/listing/for-sale/260266859/2020-freightliner-coronado-132-sleeper-trucks",
-      "title": "2020 Freightliner Coronado 132",
+      "url": "https://www.citratrucksales.com/inventory/?/listing/for-sale/260266859/2020-freightliner-coronado-132-sleeper-trucks?dscompanyid=129068&settingscrmid=26405495",
+      "title": "2020 Freightliner Coronado 132 \u00d73 (Citra Truck Sales)",
       "year": 2020,
       "model": "Coronado 132",
-      "price": null,
+      "price": 69900,
       "miles": null,
       "engine": "Detroit Series 60 12.7, 500 hp",
-      "transmission": "Manual, 13 spd",
+      "transmission": "Manual, 13 & 10 spd (mixed)",
       "rears": null,
       "location": "Citra, FL (Citra Truck Sales)",
       "match": "exact",
       "misses": [
-        "Price not listed",
         "Odometer not listed",
-        "Dealer says 7 similar 2020 Coronados in stock (10 and 13 spd)"
+        "Rear ratio not listed",
+        "Dealer card is a 3-unit group (13- and 10-speed mix); individual units may differ"
       ],
       "first_seen": "2026-10-21",
       "status": "active",
@@ -3141,7 +3143,7 @@
       "engine_hours": null,
       "vin": null,
       "stock": "1495",
-      "source": "TruckPaper"
+      "source": "Citra Truck Sales"
     },
     {
       "id": "truckpaper-261468529",
@@ -4006,6 +4008,88 @@
       "vin": null,
       "stock": "LG1103",
       "source": "5 Star Truck Sales"
+    },
+    {
+      "id": "citra-261976605",
+      "url": "https://www.citratrucksales.com/inventory/?/listing/for-sale/261976605/2020-freightliner-coronado-132-sleeper-trucks?dscompanyid=129068&settingscrmid=26405495",
+      "title": "2020 Freightliner Coronado 132",
+      "year": 2020,
+      "model": "Coronado 132",
+      "price": 68900,
+      "miles": null,
+      "engine": "Detroit Series 60 12.7 DDEC IV, 500 hp",
+      "transmission": "Manual, 13 Spd",
+      "rears": null,
+      "location": "Citra, FL (Citra Truck Sales)",
+      "match": "exact",
+      "misses": [
+        "Odometer not listed",
+        "Rear ratio not listed"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Freightliner",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "1511",
+      "source": "Citra Truck Sales"
+    },
+    {
+      "id": "citra-260580159",
+      "url": "https://www.citratrucksales.com/inventory/?/listing/for-sale/260580159/2020-freightliner-coronado-132-sleeper-trucks?dscompanyid=129068&settingscrmid=26405495",
+      "title": "2020 Freightliner Coronado 132",
+      "year": 2020,
+      "model": "Coronado 132",
+      "price": 68900,
+      "miles": null,
+      "engine": "Detroit Series 60 12.7 DDEC IV, 500 hp",
+      "transmission": "Eaton-Fuller Manual, 10 Spd",
+      "rears": null,
+      "location": "Citra, FL (Citra Truck Sales)",
+      "match": "exact",
+      "misses": [
+        "Odometer not listed",
+        "Rear ratio not listed",
+        "Dealer says several to choose from (10-speed)"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Freightliner",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "1510",
+      "source": "Citra Truck Sales"
+    },
+    {
+      "id": "citra-260482185",
+      "url": "https://www.citratrucksales.com/inventory/?/listing/for-sale/260482185/2016-freightliner-coronado-132-sleeper-trucks?dscompanyid=129068&settingscrmid=26405495",
+      "title": "2016 Freightliner Coronado 132",
+      "year": 2016,
+      "model": "Coronado 132",
+      "price": 54900,
+      "miles": null,
+      "engine": "Detroit Series 60 12.7 DDEC IV, 500 hp",
+      "transmission": "Eaton-Fuller Manual, 10 Spd",
+      "rears": null,
+      "location": "Citra, FL (Citra Truck Sales)",
+      "match": "exact",
+      "misses": [
+        "Odometer not listed",
+        "Rear ratio not listed"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null,
+      "make": "Freightliner",
+      "engine_miles_since_rebuild": null,
+      "engine_hours": null,
+      "vin": null,
+      "stock": "1502",
+      "source": "Citra Truck Sales"
     }
   ]
 }
