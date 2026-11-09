@@ -1,358 +1,358 @@
 {
-  "updated_at": "2026-11-05T10:45:00-08:00",
-  "spec": {
-    "title": "Joel Morrow's Volvo spec for 80,000 lb or less",
-    "source_url": "https://www.linkedin.com/posts/joel-morrow-a15a6aa0_truck-drivers-and-owner-operators-love-to-activity-7300916238589800448-gCIq",
-    "items": [
-      {
-        "label": "Truck",
-        "value": "Volvo VNL 860 sleeper (his Purple Haze II, new-generation VNL); his earlier Purple Haze I is a legacy VNL. Source: Volvo Trucks interview."
-      },
-      {
-        "label": "Engine",
-        "value": "D13 Turbo Compound, I-Torque spec, 500 hp / 1,950 lb-ft. Source: Volvo Trucks interview; CCJ, Nov 24, 2025. The 455 / 1,850 rating is shown alongside it for the same 2.16 spec. Source: LinkedIn, Feb 27, 2025."
-      },
-      {
-        "label": "Transmission",
-        "value": "I-Shift overdrive with deep reduction: 13-speed on Purple Haze II (LinkedIn, Mar 5, 2025); \"optional 14 speed\" (LinkedIn, Feb 27, 2025)."
-      },
-      {
-        "label": "Rear ratio",
-        "value": "2.16 for \"on highway vehicles pulling loads up to 80,000 lbs GCVW\" (LinkedIn, Feb 27, 2025). For a 6x4: \"2.15, 2.16, or 2.17 in an overdrive application provided your transmission has deep enough reduction\" (LinkedIn reply, Sep 2025). Next step he plans: 2.05 (CCJ, Nov 24, 2025)."
-      },
-      {
-        "label": "Axles",
-        "value": "Adaptive loading 6x2, lift axle in front of the drive axle, GRAS six-bag air ride (Volvo Trucks interview); Dana S175 23K drive axle (LinkedIn, Mar 5, 2025); 14,600 lb steer axle (CCJ, Nov 24, 2025)."
-      },
-      {
-        "label": "Tires",
-        "value": "\"Ultra low rolling resistance Michelin rubber\"; no size given. Source: CCJ, Nov 24, 2025."
-      },
-      {
-        "label": "Weight / duty",
-        "value": "General van freight, gross weights up to 79,850 lb (Volvo Trucks interview); spec is for loads up to 80,000 lb GCVW (LinkedIn, Feb 27, 2025)."
-      }
-    ]
-  },
-  "listings": [
-    {
-      "id": "soarr-16516095",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16516095/2024-Volvo-VNL-760",
-      "title": "2024 Volvo VNL 760",
-      "year": 2024,
-      "model": "VNL 760 (legacy)",
-      "price": 92999,
-      "miles": 492699,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "I-Shift AT2612F 12-speed direct drive",
-      "rears": "2.26",
-      "location": "French Camp, CA",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16516114",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16516114/2023-Volvo-VNL-760",
-      "title": "2023 Volvo VNL 760",
-      "year": 2023,
-      "model": "VNL 760 (legacy)",
-      "price": 94999,
-      "miles": 355234,
-      "engine": "Volvo D13, 455 hp",
-      "transmission": "I-Shift AT2612F 12-speed direct drive",
-      "rears": "2.15",
-      "location": "Cincinnati, OH",
-      "match": "close",
-      "misses": [
-        "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
-        "6x4 tandem, not 6x2",
-        "Turbo Compound not confirmed (listed D13/455)"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16516098",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16516098/2024-Volvo-VNL-760",
-      "title": "2024 Volvo VNL 760",
-      "year": 2024,
-      "model": "VNL 760 (legacy)",
-      "price": 95999,
-      "miles": 432556,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "I-Shift AT2612F 12-speed direct drive",
-      "rears": "2.26",
-      "location": "French Camp, CA",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16517223",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16517223/2026-Volvo-VNL-860",
-      "title": "2026 Volvo VNL 860",
-      "year": 2026,
-      "model": "VNL 860 (new-generation)",
-      "price": 159999,
-      "miles": 181953,
-      "engine": "Volvo D13TC (hp not listed)",
-      "transmission": "I-Shift, listed 12 spd (automated)",
-      "rears": "2.15",
-      "location": "Tolleson, AZ",
-      "match": "close",
-      "misses": [
-        "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
-        "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
-        "6x4 vs 6x2 not listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16517222",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16517222/2026-Volvo-VNL-860",
-      "title": "2026 Volvo VNL 860",
-      "year": 2026,
-      "model": "VNL 860 (new-generation)",
-      "price": 162999,
-      "miles": 134196,
-      "engine": "Volvo D13TC (hp not listed)",
-      "transmission": "I-Shift, listed 12 spd (automated)",
-      "rears": "2.15",
-      "location": "Tolleson, AZ",
-      "match": "close",
-      "misses": [
-        "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
-        "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
-        "6x4 vs 6x2 not listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16517221",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16517221/2026-Volvo-VNL-860",
-      "title": "2026 Volvo VNL 860",
-      "year": 2026,
-      "model": "VNL 860 (new-generation)",
-      "price": 162999,
-      "miles": 129828,
-      "engine": "Volvo D13 (hp not listed)",
-      "transmission": "I-Shift, listed 12 spd (automated)",
-      "rears": "2.15",
-      "location": "Tolleson, AZ",
-      "match": "close",
-      "misses": [
-        "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
-        "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
-        "6x4 vs 6x2 not listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16491095",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16491095/2026-Volvo-T660",
-      "title": "2026 Volvo T660",
-      "year": 2026,
-      "model": "new-gen VNL (listed as T660)",
-      "price": null,
-      "miles": 2330,
-      "engine": "Volvo D13 TC (hp not listed)",
-      "transmission": "I-Shift ATO2612G 13-speed overdrive",
-      "rears": "2.15",
-      "location": "Tolleson, AZ",
-      "match": "close",
-      "misses": [
-        "New (2,330 mi), not used",
-        "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
-        "Listed as \"T660\" but VIN 4V4BC... is a new-generation VNL; confirm model",
-        "No price listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-syverson-albertlea-2027-vnl860-2.15",
-      "url": "https://www.soarr.com/for-sale/trucks/105/sleeper-trucks-for-sale?make=volvo&year=2027",
-      "title": "2027 Volvo VNL 860 \u00d714 (new, Dave Syverson Truck Centers)",
-      "year": 2027,
-      "model": "VNL 860 (2027)",
-      "price": null,
-      "miles": null,
-      "engine": "Volvo D13TC I-Torque, 455 hp",
-      "transmission": "I-Shift ATO2612G 13-speed overdrive",
-      "rears": "2.15",
-      "location": "Albert Lea, MN",
-      "match": "close",
-      "misses": [
-        "New 2027, not used",
-        "455 / 1,850 rating, not 500 / 1,950",
-        "6x4 tandem, not 6x2 adaptive loading",
-        "No price listed"
-      ],
-      "first_seen": "2026-10-20",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "arrow-274150",
-      "url": "https://www.arrowtruck.com/inventory/274150",
-      "title": "2024 Volvo VNL 760",
-      "year": 2024,
-      "model": "VNL 760 (legacy)",
-      "price": 94999,
-      "miles": 438526,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "Volvo I-Shift 12-speed automatic",
-      "rears": "2.26",
-      "location": "French Camp, CA",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-29",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "arrow-274147",
-      "url": "https://www.arrowtruck.com/inventory/274147",
-      "title": "2023 Volvo VNL 760",
-      "year": 2023,
-      "model": "VNL 760 (legacy)",
-      "price": 104999,
-      "miles": 278163,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "Volvo I-Shift 12-speed automatic",
-      "rears": "2.26",
-      "location": "Cincinnati, OH",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-29",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "arrow-274148",
-      "url": "https://www.arrowtruck.com/inventory/274148",
-      "title": "2023 Volvo VNL 760",
-      "year": 2023,
-      "model": "VNL 760 (legacy)",
-      "price": 101999,
-      "miles": 315505,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "Volvo I-Shift 12-speed automatic",
-      "rears": "2.26",
-      "location": "Cincinnati, OH",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-29",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "arrow-274149",
-      "url": "https://www.arrowtruck.com/inventory/274149",
-      "title": "2023 Volvo VNL 760",
-      "year": 2023,
-      "model": "VNL 760 (legacy)",
-      "price": 99999,
-      "miles": 366384,
-      "engine": "Volvo D13, 500 hp",
-      "transmission": "Volvo I-Shift 12-speed automatic",
-      "rears": "2.26",
-      "location": "French Camp, CA",
-      "match": "close",
-      "misses": [
-        "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
-        "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
-        "6x4 tandem",
-        "Torque rating and Turbo Compound not listed"
-      ],
-      "first_seen": "2026-10-29",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "truckpaper-4V4BC9EJ4SN689511",
-      "url": "https://www.truckpaper.com/listings/for-sale/volvo/vnl64t860/sleeper-trucks/16045",
-      "title": "2025 Volvo VNL 860",
-      "year": 2025,
-      "model": "VNL 860 (new-generation)",
-      "price": 180000,
-      "miles": 102698,
-      "engine": "Volvo D13 TC, 500 hp",
-      "transmission": "13-speed automated",
-      "rears": "2.15",
-      "location": "Sparta, WI",
-      "match": "close",
-      "misses": [
-        "6x4 vs 6x2 not listed (40k rears)",
-        "Torque rating not listed (spec: 500/1,950)",
-        "Private seller on TruckPaper; no direct listing link found, link is the TruckPaper VNL64T860 category page",
-        "Overdrive not stated (listed \"13 speed automated\")"
-      ],
-      "first_seen": "2026-10-29",
-      "status": "active",
-      "prev_price": null
-    },
-    {
-      "id": "soarr-16520978",
-      "url": "https://www.soarr.com/for-sale/trucks/specs/16520978/2025-Volvo-DuraStar-VNL64400",
-      "title": "2025 Volvo VNL (VNL64400)",
-      "year": 2025,
-      "model": "VNL 64400",
-      "price": 152000,
-      "miles": null,
-      "engine": "Volvo D13, 455 hp",
-      "transmission": "Volvo I-Shift 13-speed",
-      "rears": "2.15",
-      "location": "Indianapolis, IN (McMahon Truck Centers)",
-      "match": "close",
-      "misses": [
-        "455 hp; torque rating not listed",
-        "6x4 tandem",
-        "Odometer not listed (listed as used)",
-        "Overdrive not stated; sleeper size not listed",
-        "Listing title says \"DuraStar VNL64400\""
-      ],
-      "first_seen": "2026-11-05",
-      "status": "active",
-      "prev_price": null
-    }
+ "updated_at": "2026-11-09T07:45:00-08:00",
+ "spec": {
+  "title": "Joel Morrow's Volvo spec for 80,000 lb or less",
+  "source_url": "https://www.linkedin.com/posts/joel-morrow-a15a6aa0_truck-drivers-and-owner-operators-love-to-activity-7300916238589800448-gCIq",
+  "items": [
+   {
+    "label": "Truck",
+    "value": "Volvo VNL 860 sleeper (his Purple Haze II, new-generation VNL); his earlier Purple Haze I is a legacy VNL. Source: Volvo Trucks interview."
+   },
+   {
+    "label": "Engine",
+    "value": "D13 Turbo Compound, I-Torque spec, 500 hp / 1,950 lb-ft. Source: Volvo Trucks interview; CCJ, Nov 24, 2025. The 455 / 1,850 rating is shown alongside it for the same 2.16 spec. Source: LinkedIn, Feb 27, 2025."
+   },
+   {
+    "label": "Transmission",
+    "value": "I-Shift overdrive with deep reduction: 13-speed on Purple Haze II (LinkedIn, Mar 5, 2025); \"optional 14 speed\" (LinkedIn, Feb 27, 2025)."
+   },
+   {
+    "label": "Rear ratio",
+    "value": "2.16 for \"on highway vehicles pulling loads up to 80,000 lbs GCVW\" (LinkedIn, Feb 27, 2025). For a 6x4: \"2.15, 2.16, or 2.17 in an overdrive application provided your transmission has deep enough reduction\" (LinkedIn reply, Sep 2025). Next step he plans: 2.05 (CCJ, Nov 24, 2025)."
+   },
+   {
+    "label": "Axles",
+    "value": "Adaptive loading 6x2, lift axle in front of the drive axle, GRAS six-bag air ride (Volvo Trucks interview); Dana S175 23K drive axle (LinkedIn, Mar 5, 2025); 14,600 lb steer axle (CCJ, Nov 24, 2025)."
+   },
+   {
+    "label": "Tires",
+    "value": "\"Ultra low rolling resistance Michelin rubber\"; no size given. Source: CCJ, Nov 24, 2025."
+   },
+   {
+    "label": "Weight / duty",
+    "value": "General van freight, gross weights up to 79,850 lb (Volvo Trucks interview); spec is for loads up to 80,000 lb GCVW (LinkedIn, Feb 27, 2025)."
+   }
   ]
+ },
+ "listings": [
+  {
+   "id": "soarr-16516095",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16516095/2024-Volvo-VNL-760",
+   "title": "2024 Volvo VNL 760",
+   "year": 2024,
+   "model": "VNL 760 (legacy)",
+   "price": 92999,
+   "miles": 492699,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "I-Shift AT2612F 12-speed direct drive",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16516114",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16516114/2023-Volvo-VNL-760",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 94999,
+   "miles": 355234,
+   "engine": "Volvo D13, 455 hp",
+   "transmission": "I-Shift AT2612F 12-speed direct drive",
+   "rears": "2.15",
+   "location": "Cincinnati, OH",
+   "match": "close",
+   "misses": [
+    "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
+    "6x4 tandem, not 6x2",
+    "Turbo Compound not confirmed (listed D13/455)"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16516098",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16516098/2024-Volvo-VNL-760",
+   "title": "2024 Volvo VNL 760",
+   "year": 2024,
+   "model": "VNL 760 (legacy)",
+   "price": 95999,
+   "miles": 432556,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "I-Shift AT2612F 12-speed direct drive",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "AT2612F 12-speed direct drive (spec: 13- or 14-speed overdrive)",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16517223",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16517223/2026-Volvo-VNL-860",
+   "title": "2026 Volvo VNL 860",
+   "year": 2026,
+   "model": "VNL 860 (new-generation)",
+   "price": 159999,
+   "miles": 181953,
+   "engine": "Volvo D13TC (hp not listed)",
+   "transmission": "I-Shift, listed 12 spd (automated)",
+   "rears": "2.15",
+   "location": "Tolleson, AZ",
+   "match": "close",
+   "misses": [
+    "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
+    "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
+    "6x4 vs 6x2 not listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16517222",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16517222/2026-Volvo-VNL-860",
+   "title": "2026 Volvo VNL 860",
+   "year": 2026,
+   "model": "VNL 860 (new-generation)",
+   "price": 162999,
+   "miles": 134196,
+   "engine": "Volvo D13TC (hp not listed)",
+   "transmission": "I-Shift, listed 12 spd (automated)",
+   "rears": "2.15",
+   "location": "Tolleson, AZ",
+   "match": "close",
+   "misses": [
+    "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
+    "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
+    "6x4 vs 6x2 not listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16517221",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16517221/2026-Volvo-VNL-860",
+   "title": "2026 Volvo VNL 860",
+   "year": 2026,
+   "model": "VNL 860 (new-generation)",
+   "price": 162999,
+   "miles": 129828,
+   "engine": "Volvo D13 (hp not listed)",
+   "transmission": "I-Shift, listed 12 spd (automated)",
+   "rears": "2.15",
+   "location": "Tolleson, AZ",
+   "match": "close",
+   "misses": [
+    "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
+    "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
+    "6x4 vs 6x2 not listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16491095",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16491095/2026-Volvo-T660",
+   "title": "2026 Volvo T660",
+   "year": 2026,
+   "model": "new-gen VNL (listed as T660)",
+   "price": null,
+   "miles": 2330,
+   "engine": "Volvo D13 TC (hp not listed)",
+   "transmission": "I-Shift ATO2612G 13-speed overdrive",
+   "rears": "2.15",
+   "location": "Tolleson, AZ",
+   "match": "close",
+   "misses": [
+    "New (2,330 mi), not used",
+    "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
+    "Listed as \"T660\" but VIN 4V4BC... is a new-generation VNL; confirm model",
+    "No price listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-syverson-albertlea-2027-vnl860-2.15",
+   "url": "https://www.soarr.com/for-sale/trucks/105/sleeper-trucks-for-sale?make=volvo&year=2027",
+   "title": "2027 Volvo VNL 860 \u00d713 (new, Dave Syverson Truck Centers)",
+   "year": 2027,
+   "model": "VNL 860 (2027)",
+   "price": null,
+   "miles": null,
+   "engine": "Volvo D13TC I-Torque, 455 hp",
+   "transmission": "I-Shift ATO2612G 13-speed overdrive",
+   "rears": "2.15",
+   "location": "Albert Lea, MN",
+   "match": "close",
+   "misses": [
+    "New 2027, not used",
+    "455 / 1,850 rating, not 500 / 1,950",
+    "6x4 tandem, not 6x2 adaptive loading",
+    "No price listed"
+   ],
+   "first_seen": "2026-10-20",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274150",
+   "url": "https://www.arrowtruck.com/inventory/274150",
+   "title": "2024 Volvo VNL 760",
+   "year": 2024,
+   "model": "VNL 760 (legacy)",
+   "price": 94999,
+   "miles": 438526,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274147",
+   "url": "https://www.arrowtruck.com/inventory/274147",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 104999,
+   "miles": 278163,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "Cincinnati, OH",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274148",
+   "url": "https://www.arrowtruck.com/inventory/274148",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 101999,
+   "miles": 315505,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "Cincinnati, OH",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "arrow-274149",
+   "url": "https://www.arrowtruck.com/inventory/274149",
+   "title": "2023 Volvo VNL 760",
+   "year": 2023,
+   "model": "VNL 760 (legacy)",
+   "price": 99999,
+   "miles": 366384,
+   "engine": "Volvo D13, 500 hp",
+   "transmission": "Volvo I-Shift 12-speed automatic",
+   "rears": "2.26",
+   "location": "French Camp, CA",
+   "match": "close",
+   "misses": [
+    "Rear ratio 2.26 (spec: 2.15\u20132.17 or lower)",
+    "12-speed I-Shift (spec: 13- or 14-speed overdrive); direct vs overdrive not listed",
+    "6x4 tandem",
+    "Torque rating and Turbo Compound not listed"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "truckpaper-4V4BC9EJ4SN689511",
+   "url": "https://www.truckpaper.com/listings/for-sale/volvo/vnl64t860/sleeper-trucks/16045",
+   "title": "2025 Volvo VNL 860",
+   "year": 2025,
+   "model": "VNL 860 (new-generation)",
+   "price": 180000,
+   "miles": 102698,
+   "engine": "Volvo D13 TC, 500 hp",
+   "transmission": "13-speed automated",
+   "rears": "2.15",
+   "location": "Sparta, WI",
+   "match": "close",
+   "misses": [
+    "6x4 vs 6x2 not listed (40k rears)",
+    "Torque rating not listed (spec: 500/1,950)",
+    "Private seller on TruckPaper; no direct listing link found, link is the TruckPaper VNL64T860 category page",
+    "Overdrive not stated (listed \"13 speed automated\")"
+   ],
+   "first_seen": "2026-10-29",
+   "status": "active",
+   "prev_price": null
+  },
+  {
+   "id": "soarr-16520978",
+   "url": "https://www.soarr.com/for-sale/trucks/specs/16520978/2025-Volvo-DuraStar-VNL64400",
+   "title": "2025 Volvo VNL (VNL64400)",
+   "year": 2025,
+   "model": "VNL 64400",
+   "price": 152000,
+   "miles": null,
+   "engine": "Volvo D13, 455 hp",
+   "transmission": "Volvo I-Shift 13-speed",
+   "rears": "2.15",
+   "location": "Indianapolis, IN (McMahon Truck Centers)",
+   "match": "close",
+   "misses": [
+    "455 hp; torque rating not listed",
+    "6x4 tandem",
+    "Odometer not listed (listed as used)",
+    "Overdrive not stated; sleeper size not listed",
+    "Listing title says \"DuraStar VNL64400\""
+   ],
+   "first_seen": "2026-11-05",
+   "status": "active",
+   "prev_price": null
+  }
+ ]
 }
