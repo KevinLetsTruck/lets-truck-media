@@ -1,356 +1,540 @@
 {
- "updated_at": "2026-11-09T07:45:00-08:00",
- "spec": {
-  "title": "Henry Albert's Freightliner spec: \"Celeste,\" his 2022 Cascadia (Project 70+/10)",
-  "source_url": "https://runonless.com/participants-2025/albert/",
-  "items": [
-   {
-    "label": "Model",
-    "value": "2022 Freightliner Cascadia, 72\" raised roof sleeper"
-   },
-   {
-    "label": "Engine",
-    "value": "Detroit DD15, 455 hp, 1,850 lb-ft"
-   },
-   {
-    "label": "Transmission",
-    "value": "Detroit DT12 automated manual, 0.78 overdrive"
-   },
-   {
-    "label": "Rear axle",
-    "value": "Detroit Model 6 rear axle, 2.61 ratio, automatic lube management"
-   },
-   {
-    "label": "Axle configuration",
-    "value": "6x2 with Hendrickson OPTIMAAX liftable pusher axle"
-   },
-   {
-    "label": "Tires",
-    "value": "Michelin X One wide-base singles"
-   },
-   {
-    "label": "Fuel tank",
-    "value": "Single 150-gallon tank (up to 1,400-mile range)"
-   },
-   {
-    "label": "Aero",
-    "value": "Full Cascadia aero package: side skirts, chin air dam, 24\" cab extenders; Flow Below wheel treatments on truck and trailer"
-   },
-   {
-    "label": "Anti-idle",
-    "value": "Battery-powered dual HVAC, Merlin solar panels, 8 AGM batteries"
-   },
-   {
-    "label": "Safety",
-    "value": "Detroit Assurance 5.0 (Active Brake Assist, lane keep, lane warning, blind spot)"
-   },
-   {
-    "label": "Trailer",
-    "value": "Utility dry van with Hendrickson UBL liftable axle, full skirts, nose cone, trailer tail"
-   },
-   {
-    "label": "Weights run",
-    "value": "Light loads to 60\u201365K and 75\u201380K lb GCVW"
-   },
-   {
-    "label": "Goal",
-    "value": "Project 70+/10: 10+ mpg at cruise up to 75 mph where legal and safe"
-   }
+  "updated_at": "2026-11-12T07:55:00-08:00",
+  "spec": {
+    "title": "Henry Albert's Freightliner spec: \"Celeste,\" his 2022 Cascadia (Project 70+/10)",
+    "source_url": "https://runonless.com/participants-2025/albert/",
+    "items": [
+      {
+        "label": "Model",
+        "value": "2022 Freightliner Cascadia, 72\" raised roof sleeper"
+      },
+      {
+        "label": "Engine",
+        "value": "Detroit DD15, 455 hp, 1,850 lb-ft"
+      },
+      {
+        "label": "Transmission",
+        "value": "Detroit DT12 automated manual, 0.78 overdrive"
+      },
+      {
+        "label": "Rear axle",
+        "value": "Detroit Model 6 rear axle, 2.61 ratio, automatic lube management"
+      },
+      {
+        "label": "Axle configuration",
+        "value": "6x2 with Hendrickson OPTIMAAX liftable pusher axle"
+      },
+      {
+        "label": "Tires",
+        "value": "Michelin X One wide-base singles"
+      },
+      {
+        "label": "Fuel tank",
+        "value": "Single 150-gallon tank (up to 1,400-mile range)"
+      },
+      {
+        "label": "Aero",
+        "value": "Full Cascadia aero package: side skirts, chin air dam, 24\" cab extenders; Flow Below wheel treatments on truck and trailer"
+      },
+      {
+        "label": "Anti-idle",
+        "value": "Battery-powered dual HVAC, Merlin solar panels, 8 AGM batteries"
+      },
+      {
+        "label": "Safety",
+        "value": "Detroit Assurance 5.0 (Active Brake Assist, lane keep, lane warning, blind spot)"
+      },
+      {
+        "label": "Trailer",
+        "value": "Utility dry van with Hendrickson UBL liftable axle, full skirts, nose cone, trailer tail"
+      },
+      {
+        "label": "Weights run",
+        "value": "Light loads to 60–65K and 75–80K lb GCVW"
+      },
+      {
+        "label": "Goal",
+        "value": "Project 70+/10: 10+ mpg at cruise up to 75 mph where legal and safe"
+      }
+    ]
+  },
+  "listings": [
+    {
+      "id": "soarr-16515754",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16515754/2024-Freightliner-Cascadia",
+      "title": "2024 Freightliner Cascadia 126 72\" Raised Roof",
+      "year": 2024,
+      "model": "Cascadia 126",
+      "price": 134900,
+      "miles": 239262,
+      "engine": "Detroit DD15 455 hp / 1,750 lb-ft",
+      "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
+      "rears": "2.64",
+      "location": "Albert Lea, MN (Dave Syverson Truck Centers)",
+      "match": "close",
+      "misses": [
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "2.64 rears vs 2.61",
+        "1,750 lb-ft torque vs 1,850",
+        "275/80R22.5 duals, not Michelin X One wide-base singles",
+        "Dual 100-gal tanks vs single 150-gal",
+        "Thermo King TriPac diesel APU vs battery HVAC + solar"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16482275",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16482275/2022-Freightliner-Cascadia",
+      "title": "2022 Freightliner Cascadia 72\" Raised Roof",
+      "year": 2022,
+      "model": "Cascadia (126)",
+      "price": 68900,
+      "miles": 507791,
+      "engine": "Detroit DD15 400 hp / 1,750 lb-ft",
+      "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
+      "rears": "2.64",
+      "location": "Rochester, MN (Dave Syverson Truck Centers)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,750 lb-ft vs 455 / 1,850",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "2.64 rears vs 2.61",
+        "275/80R22.5 duals, not wide-base singles",
+        "Carrier APU vs battery HVAC + solar"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16491468",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16491468/2022-Freightliner-Cascadia-126",
+      "title": "2022 Freightliner Cascadia 126 70\" Raised Roof",
+      "year": 2022,
+      "model": "Cascadia 126",
+      "price": 69900,
+      "miles": 559000,
+      "engine": "Detroit DD15 450 hp (listed); dealer says paperwork for new long block at Freightliner dealer",
+      "transmission": "Detroit DT12-OA-1650 (overdrive AMT)",
+      "rears": "not listed",
+      "location": "Indianapolis, IN (McMahon Truck Centers)",
+      "match": "close",
+      "misses": [
+        "Rear ratio not listed",
+        "HP listed as 450 (confirm actual rating vs 455/1,850)",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "70\" vs 72\" sleeper",
+        "Tires not listed"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": 72900,
+      "price_drop": true
+    },
+    {
+      "id": "soarr-16492786",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16492786/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
+      "year": 2021,
+      "model": "Cascadia 126 (PX12664)",
+      "price": 68736,
+      "miles": 564044,
+      "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Bolingbrook, IL (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "Roof height and tires not listed",
+        "Ex-fleet (Ryder)"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": 72736
+    },
+    {
+      "id": "soarr-16460408",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16460408/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia PX12664 71\" sleeper",
+      "year": 2021,
+      "model": "Cascadia 126 (PX12664)",
+      "price": 48923,
+      "miles": 821230,
+      "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "O'Fallon, MO (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "Fairings listed as None (Henry runs full aero)",
+        "High miles (821K)",
+        "Ex-fleet (Ryder)"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16497840",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16497840/2022-Freightliner-Cascadia-126",
+      "title": "2022 Freightliner Cascadia 126 72\" Condo",
+      "year": 2022,
+      "model": "Cascadia 126",
+      "price": 59900,
+      "miles": 584892,
+      "engine": "Detroit DD15 455 hp (torque not listed)",
+      "transmission": "Detroit DT12 12-speed (overdrive vs direct not listed)",
+      "rears": "2.47",
+      "location": "Fort Wayne, IN (Jasper, Inc.)",
+      "match": "close",
+      "misses": [
+        "DT12 version not listed; overdrive must be confirmed by VIN/spec sheet",
+        "2.47 rears vs 2.61",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "Low-profile 22.5 duals, not wide-base singles"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16421803",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16421803/2019-Freightliner-CASCADIA",
+      "title": "2019 Freightliner Cascadia tandem sleeper (auction, as-is)",
+      "year": 2019,
+      "model": "Cascadia",
+      "price": null,
+      "miles": 587163,
+      "engine": "Detroit DD15 455 hp",
+      "transmission": "Detroit DT12-1750-OH1 HD (overdrive AMT)",
+      "rears": "not listed",
+      "location": "Pell City, AL (EquipLinc Auction Group)",
+      "match": "close",
+      "misses": [
+        "Auction, sold as-is, no price or sale date shown",
+        "Rear ratio not listed",
+        "Older model year (2019 vs 2022)",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "Sleeper size and tires not listed",
+        "Passenger cab extender trim removed"
+      ],
+      "first_seen": "2026-10-20",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16517639",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16517639/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
+      "year": 2021,
+      "model": "Cascadia 126 (PX12664)",
+      "price": 61951,
+      "miles": 606096,
+      "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Dallas, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "Fairings listed as None (Henry runs full aero)",
+        "Tires not listed",
+        "Ex-fleet (Ryder)"
+      ],
+      "first_seen": "2026-10-22",
+      "status": "active",
+      "prev_price": 65951
+    },
+    {
+      "id": "soarr-16482650",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16482650/2022-Freightliner-Cascadia",
+      "title": "2022 Freightliner Cascadia 72\" Raised Roof",
+      "year": 2022,
+      "model": "Cascadia",
+      "price": 68900,
+      "miles": 517997,
+      "engine": "Detroit DD15 400 hp / 1,750 lb-ft",
+      "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
+      "rears": "2.64",
+      "location": "Rochester, MN (Dave Syverson Truck Centers)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,750 lb-ft vs 455 / 1,850",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "2.64 rears vs 2.61",
+        "275/80R22.5 duals, not wide-base singles",
+        "Carrier APU vs battery HVAC + solar"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16519967",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16519967/2021-Freightliner-Cascadia",
+      "title": "2021 Freightliner Cascadia PX12664 48\" sleeper",
+      "year": 2021,
+      "model": "Cascadia (PX12664)",
+      "price": 65006,
+      "miles": 572151,
+      "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Fort Worth, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "48\" sleeper; roof and tires not listed",
+        "Ex-fleet (Ryder)"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16509534",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16509534/2021-Freightliner-Cascadia-126",
+      "title": "2021 Freightliner Cascadia 126 72\" Raised Roof",
+      "year": 2021,
+      "model": "Cascadia 126",
+      "price": 33500,
+      "miles": 837769,
+      "engine": "Detroit DD15, 455 hp",
+      "transmission": "Detroit DT12 12-speed (overdrive not stated)",
+      "rears": "2.47",
+      "location": "Bates City, MO (XL Truck Sales)",
+      "match": "close",
+      "misses": [
+        "Torque not listed",
+        "2.47 rears vs 2.61",
+        "DT12 model not stated (overdrive unconfirmed)",
+        "6x4 tandem, not 6x2 OPTIMAAX",
+        "High miles; dealer has matching units"
+      ],
+      "first_seen": "2026-11-05",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16521712",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16521712/2018-Freightliner-Cascadia-125",
+      "title": "2018 Freightliner Cascadia 125 72\" Raised Roof",
+      "year": 2018,
+      "model": "Cascadia 125",
+      "price": 39900,
+      "miles": 421000,
+      "engine": "Detroit DD15 455 hp",
+      "transmission": "DT12 automated (overdrive not stated)",
+      "rears": "2.41",
+      "location": "Montgomery, TX (Don Van Orden Equipment Locators)",
+      "match": "close",
+      "misses": [
+        "Overdrive not confirmed (listing says DT12 auto only)",
+        "2.41 rears vs 2.61",
+        "6x4 not 6x2 with liftable pusher; not wide-base singles",
+        "Torque rating not listed",
+        "Listing says EMISSIONS ALTERED",
+        "2018 model year, older than Henry's 2022"
+      ],
+      "first_seen": "2026-11-09",
+      "status": "sold",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522553",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522553/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia",
+      "year": 2021,
+      "model": "Cascadia",
+      "price": 65239,
+      "miles": 569569,
+      "engine": "Detroit DD15 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Fort Worth, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "DD15 400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16521856",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16521856/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia",
+      "year": 2021,
+      "model": "Cascadia",
+      "price": 64686,
+      "miles": 559044,
+      "engine": "Detroit DD15 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Fort Worth, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "DD15 400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16521857",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16521857/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia",
+      "year": 2021,
+      "model": "Cascadia",
+      "price": 65960,
+      "miles": 561561,
+      "engine": "Detroit DD15 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Fort Worth, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "DD15 400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522572",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522572/2021-Freightliner-NEW-CASCADIA-PX12664",
+      "title": "2021 Freightliner Cascadia",
+      "year": 2021,
+      "model": "Cascadia",
+      "price": 62946,
+      "miles": 595044,
+      "engine": "Detroit DD15 400 hp / 1,625 lb-ft",
+      "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Dallas, TX (Ryder Vehicle Sales)",
+      "match": "close",
+      "misses": [
+        "DD15 400 hp / 1,625 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522166",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522166/2024-Freightliner-Cascadia-126",
+      "title": "2024 Freightliner Cascadia",
+      "year": 2024,
+      "model": "Cascadia",
+      "price": 89999,
+      "miles": 486329,
+      "engine": "Detroit DD15 475 hp / 1,650 lb-ft",
+      "transmission": "Detroit DT12-1650-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Cincinnati, OH (Arrow Truck Sales; also on arrowtruck.com)",
+      "match": "close",
+      "misses": [
+        "DD15 475 hp / 1,650 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522167",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522167/2024-Freightliner-Cascadia-126",
+      "title": "2024 Freightliner Cascadia",
+      "year": 2024,
+      "model": "Cascadia",
+      "price": 89999,
+      "miles": 490882,
+      "engine": "Detroit DD15 475 hp / 1,650 lb-ft",
+      "transmission": "Detroit DT12-1650-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Cincinnati, OH (Arrow Truck Sales; also on arrowtruck.com)",
+      "match": "close",
+      "misses": [
+        "DD15 475 hp / 1,650 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522168",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522168/2024-Freightliner-Cascadia-126",
+      "title": "2024 Freightliner Cascadia",
+      "year": 2024,
+      "model": "Cascadia",
+      "price": 87999,
+      "miles": 522274,
+      "engine": "Detroit DD15 475 hp / 1,650 lb-ft",
+      "transmission": "Detroit DT12-1650-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Cincinnati, OH (Arrow Truck Sales; also on arrowtruck.com)",
+      "match": "close",
+      "misses": [
+        "DD15 475 hp / 1,650 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "soarr-16522170",
+      "url": "https://www.soarr.com/for-sale/trucks/specs/16522170/2024-Freightliner-Cascadia-126",
+      "title": "2024 Freightliner Cascadia",
+      "year": 2024,
+      "model": "Cascadia",
+      "price": 89999,
+      "miles": 497059,
+      "engine": "Detroit DD15 475 hp / 1,650 lb-ft",
+      "transmission": "Detroit DT12-1650-OH1 (overdrive AMT)",
+      "rears": "2.79",
+      "location": "Cincinnati, OH (Arrow Truck Sales; also on arrowtruck.com)",
+      "match": "close",
+      "misses": [
+        "DD15 475 hp / 1,650 lb-ft vs 455 / 1,850",
+        "2.79 rears vs 2.61",
+        "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
+        "Standard duals, not Michelin X One wide-base singles"
+      ],
+      "first_seen": "2026-11-12",
+      "status": "active",
+      "prev_price": null
+    }
   ]
- },
- "listings": [
-  {
-   "id": "soarr-16515754",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16515754/2024-Freightliner-Cascadia",
-   "title": "2024 Freightliner Cascadia 126 72\" Raised Roof",
-   "year": 2024,
-   "model": "Cascadia 126",
-   "price": 134900,
-   "miles": 239262,
-   "engine": "Detroit DD15 455 hp / 1,750 lb-ft",
-   "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
-   "rears": "2.64",
-   "location": "Albert Lea, MN (Dave Syverson Truck Centers)",
-   "match": "close",
-   "misses": [
-    "6x4 tandem, not 6x2 with Hendrickson OPTIMAAX liftable pusher",
-    "2.64 rears vs 2.61",
-    "1,750 lb-ft torque vs 1,850",
-    "275/80R22.5 duals, not Michelin X One wide-base singles",
-    "Dual 100-gal tanks vs single 150-gal",
-    "Thermo King TriPac diesel APU vs battery HVAC + solar"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16482275",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16482275/2022-Freightliner-Cascadia",
-   "title": "2022 Freightliner Cascadia 72\" Raised Roof",
-   "year": 2022,
-   "model": "Cascadia (126)",
-   "price": 68900,
-   "miles": 507791,
-   "engine": "Detroit DD15 400 hp / 1,750 lb-ft",
-   "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
-   "rears": "2.64",
-   "location": "Rochester, MN (Dave Syverson Truck Centers)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,750 lb-ft vs 455 / 1,850",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "2.64 rears vs 2.61",
-    "275/80R22.5 duals, not wide-base singles",
-    "Carrier APU vs battery HVAC + solar"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16491468",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16491468/2022-Freightliner-Cascadia-126",
-   "title": "2022 Freightliner Cascadia 126 70\" Raised Roof",
-   "year": 2022,
-   "model": "Cascadia 126",
-   "price": 69900,
-   "miles": 559000,
-   "engine": "Detroit DD15 450 hp (listed); dealer says paperwork for new long block at Freightliner dealer",
-   "transmission": "Detroit DT12-OA-1650 (overdrive AMT)",
-   "rears": "not listed",
-   "location": "Indianapolis, IN (McMahon Truck Centers)",
-   "match": "close",
-   "misses": [
-    "Rear ratio not listed",
-    "HP listed as 450 (confirm actual rating vs 455/1,850)",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "70\" vs 72\" sleeper",
-    "Tires not listed"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": 72900,
-   "price_drop": true
-  },
-  {
-   "id": "soarr-16492786",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16492786/2021-Freightliner-NEW-CASCADIA-PX12664",
-   "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
-   "year": 2021,
-   "model": "Cascadia 126 (PX12664)",
-   "price": 68736,
-   "miles": 564044,
-   "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
-   "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
-   "rears": "2.79",
-   "location": "Bolingbrook, IL (Ryder Vehicle Sales)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,625 lb-ft vs 455 / 1,850",
-    "2.79 rears vs 2.61",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "Roof height and tires not listed",
-    "Ex-fleet (Ryder)"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": 72736
-  },
-  {
-   "id": "soarr-16460408",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16460408/2021-Freightliner-NEW-CASCADIA-PX12664",
-   "title": "2021 Freightliner Cascadia PX12664 71\" sleeper",
-   "year": 2021,
-   "model": "Cascadia 126 (PX12664)",
-   "price": 48923,
-   "miles": 821230,
-   "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
-   "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
-   "rears": "2.79",
-   "location": "O'Fallon, MO (Ryder Vehicle Sales)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,625 lb-ft vs 455 / 1,850",
-    "2.79 rears vs 2.61",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "Fairings listed as None (Henry runs full aero)",
-    "High miles (821K)",
-    "Ex-fleet (Ryder)"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16497840",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16497840/2022-Freightliner-Cascadia-126",
-   "title": "2022 Freightliner Cascadia 126 72\" Condo",
-   "year": 2022,
-   "model": "Cascadia 126",
-   "price": 59900,
-   "miles": 584892,
-   "engine": "Detroit DD15 455 hp (torque not listed)",
-   "transmission": "Detroit DT12 12-speed (overdrive vs direct not listed)",
-   "rears": "2.47",
-   "location": "Fort Wayne, IN (Jasper, Inc.)",
-   "match": "close",
-   "misses": [
-    "DT12 version not listed; overdrive must be confirmed by VIN/spec sheet",
-    "2.47 rears vs 2.61",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "Low-profile 22.5 duals, not wide-base singles"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16421803",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16421803/2019-Freightliner-CASCADIA",
-   "title": "2019 Freightliner Cascadia tandem sleeper (auction, as-is)",
-   "year": 2019,
-   "model": "Cascadia",
-   "price": null,
-   "miles": 587163,
-   "engine": "Detroit DD15 455 hp",
-   "transmission": "Detroit DT12-1750-OH1 HD (overdrive AMT)",
-   "rears": "not listed",
-   "location": "Pell City, AL (EquipLinc Auction Group)",
-   "match": "close",
-   "misses": [
-    "Auction, sold as-is, no price or sale date shown",
-    "Rear ratio not listed",
-    "Older model year (2019 vs 2022)",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "Sleeper size and tires not listed",
-    "Passenger cab extender trim removed"
-   ],
-   "first_seen": "2026-10-20",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16517639",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16517639/2021-Freightliner-NEW-CASCADIA-PX12664",
-   "title": "2021 Freightliner Cascadia PX12664 72\" sleeper",
-   "year": 2021,
-   "model": "Cascadia 126 (PX12664)",
-   "price": 61951,
-   "miles": 606096,
-   "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
-   "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
-   "rears": "2.79",
-   "location": "Dallas, TX (Ryder Vehicle Sales)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,625 lb-ft vs 455 / 1,850",
-    "2.79 rears vs 2.61",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "Fairings listed as None (Henry runs full aero)",
-    "Tires not listed",
-    "Ex-fleet (Ryder)"
-   ],
-   "first_seen": "2026-10-22",
-   "status": "active",
-   "prev_price": 65951
-  },
-  {
-   "id": "soarr-16482650",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16482650/2022-Freightliner-Cascadia",
-   "title": "2022 Freightliner Cascadia 72\" Raised Roof",
-   "year": 2022,
-   "model": "Cascadia",
-   "price": 68900,
-   "miles": 517997,
-   "engine": "Detroit DD15 400 hp / 1,750 lb-ft",
-   "transmission": "Detroit DT12-1750-OHE (overdrive AMT)",
-   "rears": "2.64",
-   "location": "Rochester, MN (Dave Syverson Truck Centers)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,750 lb-ft vs 455 / 1,850",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "2.64 rears vs 2.61",
-    "275/80R22.5 duals, not wide-base singles",
-    "Carrier APU vs battery HVAC + solar"
-   ],
-   "first_seen": "2026-11-05",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16519967",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16519967/2021-Freightliner-Cascadia",
-   "title": "2021 Freightliner Cascadia PX12664 48\" sleeper",
-   "year": 2021,
-   "model": "Cascadia (PX12664)",
-   "price": 65006,
-   "miles": 572151,
-   "engine": "Detroit DD15 GHG'17 400 hp / 1,625 lb-ft",
-   "transmission": "Detroit DT12-1750-OH1 (overdrive AMT)",
-   "rears": "2.79",
-   "location": "Fort Worth, TX (Ryder Vehicle Sales)",
-   "match": "close",
-   "misses": [
-    "400 hp / 1,625 lb-ft vs 455 / 1,850",
-    "2.79 rears vs 2.61",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "48\" sleeper; roof and tires not listed",
-    "Ex-fleet (Ryder)"
-   ],
-   "first_seen": "2026-11-05",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16509534",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16509534/2021-Freightliner-Cascadia-126",
-   "title": "2021 Freightliner Cascadia 126 72\" Raised Roof",
-   "year": 2021,
-   "model": "Cascadia 126",
-   "price": 33500,
-   "miles": 837769,
-   "engine": "Detroit DD15, 455 hp",
-   "transmission": "Detroit DT12 12-speed (overdrive not stated)",
-   "rears": "2.47",
-   "location": "Bates City, MO (XL Truck Sales)",
-   "match": "close",
-   "misses": [
-    "Torque not listed",
-    "2.47 rears vs 2.61",
-    "DT12 model not stated (overdrive unconfirmed)",
-    "6x4 tandem, not 6x2 OPTIMAAX",
-    "High miles; dealer has matching units"
-   ],
-   "first_seen": "2026-11-05",
-   "status": "active",
-   "prev_price": null
-  },
-  {
-   "id": "soarr-16521712",
-   "url": "https://www.soarr.com/for-sale/trucks/specs/16521712/2018-Freightliner-Cascadia-125",
-   "title": "2018 Freightliner Cascadia 125 72\" Raised Roof",
-   "year": 2018,
-   "model": "Cascadia 125",
-   "price": 39900,
-   "miles": 421000,
-   "engine": "Detroit DD15 455 hp",
-   "transmission": "DT12 automated (overdrive not stated)",
-   "rears": "2.41",
-   "location": "Montgomery, TX (Don Van Orden Equipment Locators)",
-   "match": "close",
-   "misses": [
-    "Overdrive not confirmed (listing says DT12 auto only)",
-    "2.41 rears vs 2.61",
-    "6x4 not 6x2 with liftable pusher; not wide-base singles",
-    "Torque rating not listed",
-    "Listing says EMISSIONS ALTERED",
-    "2018 model year, older than Henry's 2022"
-   ],
-   "first_seen": "2026-11-09",
-   "status": "active",
-   "prev_price": null
-  }
- ]
 }
