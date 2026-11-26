@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T08:10:31-08:00",
+  "updated_at": "2026-11-26T08:19:51-08:00",
   "spec": {
     "title": "Joel Morrow's Volvo spec for 80,000 lb or less",
     "source_url": "https://www.linkedin.com/posts/joel-morrow-a15a6aa0_truck-drivers-and-owner-operators-love-to-activity-7300916238589800448-gCIq",
@@ -111,15 +111,15 @@
       "model": "VNL 860 (new-generation)",
       "price": 159999,
       "miles": 181953,
-      "engine": "Volvo D13TC (hp not listed)",
+      "engine": "Volvo D13TC, 425 hp (per TruckPaper 259760499, same truck)",
       "transmission": "I-Shift, listed 12 spd (automated)",
       "rears": "2.15",
       "location": "Tolleson, AZ",
       "match": "close",
       "misses": [
         "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
-        "Horsepower/torque not listed (spec: 500/1,950 or 455/1,850)",
-        "6x4 vs 6x2 not listed"
+        "6x4 vs 6x2 not listed",
+        "425 hp per TruckPaper 259760499 (below the 455/1,850 basement)"
       ],
       "first_seen": "2026-10-20",
       "status": "active",
@@ -352,6 +352,52 @@
       ],
       "first_seen": "2026-11-05",
       "status": "sold",
+      "prev_price": null
+    },
+    {
+      "id": "truckpaper-261548445",
+      "url": "https://www.truckpaper.com/listing/for-sale/261548445",
+      "title": "2024 Volvo VNL 860",
+      "year": 2024,
+      "model": "VNL 860 (new-generation)",
+      "price": 81000,
+      "miles": 660225,
+      "engine": "Volvo D13TC, 455 hp",
+      "transmission": "I-Shift, listed 12 spd",
+      "rears": "2.15",
+      "location": "El Paso, TX (Vanguard Truck Centers El Paso)",
+      "match": "close",
+      "misses": [
+        "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
+        "455 hp (spec: 500/1,950; 455/1,850 is the step down); torque not listed",
+        "6x4 vs 6x2 not listed",
+        "TruckPaper data from 2026-11-26 browser sweep"
+      ],
+      "first_seen": "2026-11-26",
+      "status": "active",
+      "prev_price": null
+    },
+    {
+      "id": "truckpaper-261583709",
+      "url": "https://www.truckpaper.com/listing/for-sale/261583709",
+      "title": "2024 Volvo VNL 860",
+      "year": 2024,
+      "model": "VNL 860 (new-generation)",
+      "price": 79000,
+      "miles": 703718,
+      "engine": "Volvo D13TC, 455 hp",
+      "transmission": "I-Shift, listed 12 spd",
+      "rears": "2.15",
+      "location": "El Paso, TX (Vanguard Truck Centers El Paso)",
+      "match": "close",
+      "misses": [
+        "Listed as 12-speed (spec: 13- or 14-speed I-Shift overdrive); confirm by VIN",
+        "455 hp (spec: 500/1,950; 455/1,850 is the step down); torque not listed",
+        "6x4 vs 6x2 not listed",
+        "TruckPaper data from 2026-11-26 browser sweep"
+      ],
+      "first_seen": "2026-11-26",
+      "status": "active",
       "prev_price": null
     }
   ]
